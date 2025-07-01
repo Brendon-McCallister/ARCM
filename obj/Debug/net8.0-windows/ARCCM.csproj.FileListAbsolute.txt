@@ -1,0 +1,34 @@
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\bin\Debug\net8.0-windows\ARCCM.exe
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\bin\Debug\net8.0-windows\ARCCM.deps.json
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\bin\Debug\net8.0-windows\ARCCM.runtimeconfig.json
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\bin\Debug\net8.0-windows\ARCCM.dll
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\bin\Debug\net8.0-windows\ARCCM.pdb
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.Form1.resources
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.csproj.GenerateResource.cache
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.AssemblyInfoInputs.cache
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.AssemblyInfo.cs
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.dll
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\obj\Debug\net8.0-windows\refint\ARCCM.dll
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.pdb
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.genruntimeconfig.cache
+C:\Users\Brendon\source\repos\learn C#\ARCCM\ARCCM\ARCCM\obj\Debug\net8.0-windows\ref\ARCCM.dll
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\bin\Debug\net8.0-windows\ARCCM.exe
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\bin\Debug\net8.0-windows\ARCCM.deps.json
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\bin\Debug\net8.0-windows\ARCCM.runtimeconfig.json
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\bin\Debug\net8.0-windows\ARCCM.dll
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\bin\Debug\net8.0-windows\ARCCM.pdb
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.csproj.GenerateResource.cache
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.AssemblyInfoInputs.cache
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.AssemblyInfo.cs
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.dll
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\refint\ARCCM.dll
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.pdb
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.genruntimeconfig.cache
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\ref\ARCCM.dll
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.userCreation.userCreation.resources
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.MainMenu.resources
+C:\Users\Brendon\source\repos\apps\ARCM\ARCM\ARCCM\obj\Debug\net8.0-windows\ARCCM.clubCreation.resources
